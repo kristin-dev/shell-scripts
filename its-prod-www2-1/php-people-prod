@@ -1,0 +1,3894 @@
+<Location "/~arossi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/arossi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~avril/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/avril"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~brogoff/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/brogoff"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cwilmers/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/cwilmers"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~elnish/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/elnish"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~gardnert/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/gardnert"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~garrison/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/garrison"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hskinner/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/hskinner"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kuhn/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/kuhn"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lskim/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/lskim"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~marion/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/marion"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mcintyre/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/mcintyre"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mcmullen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/mcmullen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~melgares/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/melgares"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mlwilson/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/mlwilson"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nandini/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/nandini"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~panand/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/panand"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~raknight/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/raknight"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tlfreema/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/tlfreema"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ndaviden/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/ndaviden"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hmaldona/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/hmaldona"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~atruscot/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/atruscot"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~paroth/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/paroth"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ealdrich/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/ealdrich"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aphid/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/aphid"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mtoosarv/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/mtoosarv"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tjg/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/tjg"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wittman/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/wittman"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~smleach/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/smleach"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jaes/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/jaes"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cjlaw/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/cjlaw"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rbrobins/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/rbrobins"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jfyang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/jfyang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~romarks/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/romarks"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cirosas/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/cirosas"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nzavalac/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/nzavalac"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~omembril/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/omembril"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sagebrem/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/sagebrem"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rgarci24/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/rgarci24"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jrgongor/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/jrgongor"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~egentry/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/egentry"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mreyes7/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/mreyes7"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~shuitzil/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/shuitzil"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nherna13/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/nherna13"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yaji/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/yaji"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~szhan39/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/szhan39"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~momhassa/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/momhassa"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jajin/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/jajin"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~favelazq/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/favelazq"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mlvang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/mlvang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~snunodel/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/snunodel"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jwreed/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/jwreed"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~qzhang20/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/qzhang20"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~vjortega/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/vjortega"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hzhang46/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/hzhang46"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dche32/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/dche32"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mpvang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/mpvang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kruiz4/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/kruiz4"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sluu6/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/sluu6"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jbermeo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/jbermeo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jjuanill/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/jjuanill"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~avvarshn/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/avvarshn"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mzhou13/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/mzhou13"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jeachaco/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/jeachaco"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cachrist/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/cachrist"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wechen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/wechen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~raaprodr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/raaprodr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mgarci87/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/mgarci87"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~momedran/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/momedran"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sderushi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/sderushi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~pgong/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/pgong"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~makawano/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/makawano"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zjmartin/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/zjmartin"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ycong/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/ycong"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~obarrera/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/obarrera"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~gotorres/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/gotorres"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hzhu12/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/hzhu12"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ljiang2/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/ljiang2"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~magoschn/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/magoschn"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cfaust/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/cfaust"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rwberger/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/rwberger"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wbolden/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/wbolden"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ajacquar/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/ajacquar"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jrrose/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/jrrose"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~acwinter/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/acwinter"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~asmachuc/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/asmachuc"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ralara/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/ralara"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~smeus/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/smeus"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zwang82/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/zwang82"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dotrhoan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/dotrhoan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jgao11/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/jgao11"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dkorb/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/dkorb"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ywu50/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/ywu50"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aberezov/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/aberezov"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~vivytran/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/vivytran"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ivera/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/ivera"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~emsandov/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/emsandov"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~srlui/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/srlui"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tmowens/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/tmowens"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aggeorgi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/aggeorgi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~shsgonza/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/shsgonza"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~keslao/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/keslao"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~vboyder/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/vboyder"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~chrucarr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/chrucarr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jledesm2/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/jledesm2"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kscreigh/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/kscreigh"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ampoostp/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/ampoostp"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ingleman/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/ingleman"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~joviedo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/joviedo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ylin62/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/ylin62"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~siverma/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/siverma"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rhausen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/rhausen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~megerer/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/megerer"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rehong/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/rehong"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~andre777/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/andre777"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~matrejo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/matrejo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aalkahel/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/aalkahel"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lwrogers/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/lwrogers"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yzheng31/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/yzheng31"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~espratle/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/espratle"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~speng7/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/speng7"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jmenende/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/jmenende"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~coishi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/coishi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lroja4/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/lroja4"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tfurbay/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/tfurbay"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~vemperez/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/vemperez"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jogsmith/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/jogsmith"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~atran16/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/atran16"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zchen31/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/zchen31"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jbellik/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/jbellik"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~amssherg/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/amssherg"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jsgu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/jsgu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~bdberger/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/bdberger"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wchen38/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/wchen38"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dfernan4/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/dfernan4"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~vapadill/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/vapadill"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~crgmarti/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/crgmarti"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mvasque6/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/mvasque6"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~snix/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/snix"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~clee121/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/clee121"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jaasilva/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/jaasilva"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~klopezes/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/klopezes"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mherna81/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/mherna81"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~doxiong/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/doxiong"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jikeda/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/jikeda"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~laabdels/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/laabdels"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~liinigue/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/liinigue"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jhmizrah/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/jhmizrah"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ravalos2/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/ravalos2"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~henhanso/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/henhanso"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cimsherm/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/cimsherm"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jobcena/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/jobcena"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lcargonj/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/lcargonj"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rogvarga/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/rogvarga"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~scamenso/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/scamenso"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cherre12/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/cherre12"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rirrodri/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/rirrodri"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ffriesen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/ffriesen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jchan40/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/jchan40"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lchen78/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/lchen78"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jmseo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/jmseo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~gucasill/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/gucasill"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~brleblan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/brleblan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jkawagis/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/jkawagis"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~anmarmen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/anmarmen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~savirgen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/savirgen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hzhanhua/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/hzhanhua"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zzhang94/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/zzhang94"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jkahan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/jkahan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sushrest/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/sushrest"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~baliel/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/baliel"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aruan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/aruan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hzhou17/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/hzhou17"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jucdelga/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/jucdelga"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ywang251/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/ywang251"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nortegad/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/nortegad"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~copan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/copan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~anshehad/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/anshehad"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~atjdelro/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/atjdelro"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~odjahanc/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/odjahanc"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~reburns/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/reburns"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~htran15/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/htran15"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wbyu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/wbyu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mlafo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/mlafo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~macford/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/macford"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~klopezva/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/klopezva"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~awan26/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/awan26"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~azitkovi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/azitkovi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mcchai/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/mcchai"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dajeong/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/dajeong"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cmcmurph/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/cmcmurph"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~joemtayl/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/joemtayl"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jcamingu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/jcamingu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~anoyes/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/anoyes"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jeplasce/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/jeplasce"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jhou10/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/jhou10"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nmadruen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/nmadruen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jmtakeuc/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/jmtakeuc"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~epaculan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/epaculan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~daguo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/daguo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rliu37/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/rliu37"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~breyoung/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/breyoung"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dlrobles/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/dlrobles"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~vlumbad/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/vlumbad"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jherna95/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/jherna95"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jmoral22/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/jmoral22"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~skcartwr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/skcartwr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dromo1/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/dromo1"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~qyang21/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/qyang21"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tlin33/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/tlin33"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~abbberna/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/abbberna"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dnguye87/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/dnguye87"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~brklau/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/brklau"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~swang97/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/swang97"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~amazhari/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/amazhari"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~maferodr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/maferodr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~alkchan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/alkchan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cedwards/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/cedwards"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~siguzman/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/siguzman"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~vshahbaz/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/vshahbaz"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dniven/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/dniven"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cdobkin/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/cdobkin"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aledesm6/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/aledesm6"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jceisner/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/jceisner"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~thender1/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/thender1"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yyu55/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/yyu55"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~npacquin/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/npacquin"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aemurill/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/aemurill"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rakrishn/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/rakrishn"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jchan43/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/jchan43"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jedtran/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/jedtran"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hasekim/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/hasekim"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ahma/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/ahma"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~alee84/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/alee84"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~chsan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/chsan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rwgao/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/rwgao"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tquan2/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/tquan2"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mpark19/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/mpark19"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dkleinma/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/dkleinma"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tlam16/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/tlam16"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lliu36/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/lliu36"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~knguye62/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/knguye62"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~bhdinh/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/bhdinh"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wfague/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/wfague"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mmangulo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/mmangulo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nathphan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/nathphan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~oparra/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/oparra"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~meancruz/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/meancruz"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jjiang24/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/jjiang24"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yzhan226/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/yzhan226"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~elrocha/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/elrocha"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jdong6/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/jdong6"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wsump/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/wsump"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~spark112/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/spark112"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wixu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/wixu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dlcai/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/dlcai"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sgraden/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/sgraden"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~raggutie/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/raggutie"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dekker/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/dekker"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~eochan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/eochan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~opintz/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/opintz"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~radelacr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/radelacr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~srlane/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/srlane"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mohua/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/mohua"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dayin/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/dayin"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~soylin/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/soylin"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~khoang8/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/khoang8"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~betle/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/betle"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jvbenite/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/jvbenite"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lphsiung/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/lphsiung"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jechung/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/jechung"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mzhao12/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/mzhao12"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ygaytan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/ygaytan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tdelgadi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/tdelgadi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~knaderi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/knaderi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ycao24/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/ycao24"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~bjin2/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/bjin2"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jhu96/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/jhu96"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ykim107/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/ykim107"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~esarias/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/esarias"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mrivasma/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/mrivasma"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mboehm/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/mboehm"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~drahimi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/drahimi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lzhang82/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/lzhang82"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~fcmanzan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/fcmanzan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sherna50/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/sherna50"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mnaraya1/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/mnaraya1"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~pjimene3/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/pjimene3"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mogcarra/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/mogcarra"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~atrived1/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/atrived1"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ejcabrer/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/ejcabrer"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rllouie/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/rllouie"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cchen139/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/cchen139"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~coffokan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/coffokan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~knthach/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/knthach"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dmateo1/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/dmateo1"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tgogulam/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/tgogulam"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aijlopez/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/aijlopez"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sashanno/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/sashanno"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hatao/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/hatao"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ttbanh/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/ttbanh"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~emarti55/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/emarti55"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~clhlee/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/clhlee"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kjetemad/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/kjetemad"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tkwan4/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/tkwan4"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~eajung/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/eajung"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mnholtz/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/mnholtz"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~blehmann/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/blehmann"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~knkraus/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/knkraus"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~anselee/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/anselee"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~landrews/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/landrews"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hschi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/hschi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~crojasbr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/crojasbr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jcbauman/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/jcbauman"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cdkilpat/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/cdkilpat"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~pschleis/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/pschleis"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~naylau/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/naylau"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~daher/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/daher"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~akrios/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/akrios"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~psuwanna/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/psuwanna"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~skapoor2/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/skapoor2"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jucng/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/jucng"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~afarmanf/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/afarmanf"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~olevineg/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/olevineg"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sumadrig/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/sumadrig"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~alpearso/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/alpearso"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aabajwa/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/aabajwa"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~daholt/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/daholt"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zfeng17/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/zfeng17"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~brandles/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/brandles"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zali1/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/zali1"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cvicente/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/cvicente"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kkahl/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/kkahl"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jsridha1/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/jsridha1"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~abaebler/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/abaebler"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~caiestra/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/caiestra"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lchan27/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/lchan27"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cavilaar/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/cavilaar"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ahpiper/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/ahpiper"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~spmore/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/spmore"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~vhatch/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/vhatch"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nchang3/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/nchang3"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zli146/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/zli146"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~damsoto/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/damsoto"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rosdhali/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/rosdhali"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kazliang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/kazliang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hdegrego/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/hdegrego"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~skmahil/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/skmahil"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~gparico/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/gparico"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mrabalos/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/mrabalos"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ylu30/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/ylu30"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cemharpe/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/cemharpe"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~bsaephan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/bsaephan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~xuguo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/xuguo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~krmccrac/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/krmccrac"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~joyoo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/joyoo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yshi27/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/yshi27"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kkawano/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/kkawano"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~namendoz/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/namendoz"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ppedone/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/ppedone"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mwphan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/mwphan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yuzhai/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/yuzhai"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hschaefe/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/hschaefe"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yilang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/yilang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ylee109/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/ylee109"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jemckenn/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/jemckenn"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tdrobert/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/tdrobert"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jkirschm/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/jkirschm"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sbitterw/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/sbitterw"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jsrimaku/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/jsrimaku"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~abcurrie/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/abcurrie"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mdegener/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/mdegener"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hemorrow/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/hemorrow"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~keouyang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/keouyang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~joanluna/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/joanluna"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~czjiang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/czjiang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dnguy139/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/dnguy139"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ncarbari/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/ncarbari"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~najcamac/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/najcamac"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tsun16/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/tsun16"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jochrodr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/jochrodr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ctsanbor/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/ctsanbor"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~stacdera/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/stacdera"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zli174/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/zli174"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nkazoura/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/nkazoura"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~brmtruon/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/brmtruon"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~adoporto/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/adoporto"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~spgutier/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/spgutier"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ckparker/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/ckparker"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cagilee/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/cagilee"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~chvtruon/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/chvtruon"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~btohara/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/btohara"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ykomatsu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/ykomatsu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~thgluu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/thgluu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~svatanni/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/svatanni"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zwang189/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/zwang189"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ppabla/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/ppabla"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~prosendo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/prosendo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rorirodr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/rorirodr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zzhou18/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/zzhou18"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cperezlo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/cperezlo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jnguy197/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/jnguy197"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sphoung/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/sphoung"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wfshao/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/wfshao"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hlee125/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/hlee125"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nlramire/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/nlramire"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jomolina/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/jomolina"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~bwitteck/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/bwitteck"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~anserpa/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/anserpa"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dmbuckle/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/dmbuckle"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ywang484/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/ywang484"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tgmin/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/tgmin"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tnguy291/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/tnguy291"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cbiag/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/cbiag"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kkeomane/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/kkeomane"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lasimon/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/lasimon"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zhammoud/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/zhammoud"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~gcollelu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/gcollelu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nlramos/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/nlramos"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jsunger/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/jsunger"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jrlutz/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/jrlutz"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ngantz/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/ngantz"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jadchen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/jadchen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wmodes/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/wmodes"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kivaldez/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/kivaldez"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~bayang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/bayang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~caeander/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/caeander"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~clee173/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/clee173"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~achen62/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/achen62"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~bpetkus/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/bpetkus"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ljli/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/ljli"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yyan81/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/yyan81"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yyan83/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/yyan83"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kkshanka/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/kkshanka"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nakriar/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/nakriar"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~shester/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/shester"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jobvarga/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/jobvarga"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mnguy132/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/mnguy132"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hehalee/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/hehalee"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dalmiran/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/dalmiran"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~slin65/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/slin65"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kyao3/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/kyao3"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rlsharpe/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/rlsharpe"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~relsbach/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/relsbach"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jluo42/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/jluo42"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~quwang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/quwang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tliu44/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/tliu44"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rnakatsu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/rnakatsu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mlmacphe/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/mlmacphe"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cthomps3/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/cthomps3"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tmaganam/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/tmaganam"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~egonza76/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/egonza76"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~xdai2/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/xdai2"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sxu43/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/sxu43"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tmmejia/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/tmmejia"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~scastel2/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/scastel2"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rli32/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/rli32"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~breflore/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/breflore"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jrauchwe/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/jrauchwe"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~muhan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/muhan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ampeders/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/ampeders"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~isloza/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/isloza"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~coemoren/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/coemoren"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rli68/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/rli68"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jli219/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/jli219"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ycui11/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/ycui11"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~licervan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/licervan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ovillalt/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/ovillalt"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ddebose/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/ddebose"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hyin10/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/hyin10"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~gwang39/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/gwang39"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~xli189/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/xli189"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~brhmendo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/brhmendo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mdshaque/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/mdshaque"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~schen101/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/schen101"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~brxiong/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/brxiong"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~thaghigh/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/thaghigh"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nscarter/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/nscarter"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~edesparz/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/edesparz"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nmarti25/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/nmarti25"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aqlam/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/aqlam"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aalparaz/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/aalparaz"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~alljames/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/alljames"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~caoh/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/caoh"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dajorami/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/dajorami"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nkola/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/nkola"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~saasmann/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/saasmann"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aazhao/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/aazhao"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jeecolor/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/jeecolor"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~afeygin/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/afeygin"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sasayer/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/sasayer"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zchen102/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/zchen102"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jcai18/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/jcai18"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mmcuevas/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/mmcuevas"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hhu59/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/hhu59"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~staechot/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/staechot"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~msingh27/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/msingh27"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~vbdelato/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/vbdelato"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~difeisha/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/difeisha"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aarancib/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/aarancib"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jkaunist/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/jkaunist"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~egomish/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/egomish"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nvillavi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/nvillavi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~krschuma/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/h/krschuma"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~awishero/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/awishero"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~abarack/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/abarack"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jhue/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/jhue"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~omaoz/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/omaoz"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ripaik/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/ripaik"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~edonham/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/edonham"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~desilva/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/desilva"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rjain9/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/rjain9"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~shjohn/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/shjohn"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tmanjuna/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/tmanjuna"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dabedian/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/dabedian"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mamoghad/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/mamoghad"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mbriden/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/mbriden"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sbrecken/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/sbrecken"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jocox/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/jocox"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jsich/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/jsich"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mmoxleyf/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/mmoxleyf"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~pmkane/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/pmkane"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~bouyang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/bouyang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~abanglee/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/abanglee"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dkumano/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/dkumano"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ghuang13/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/ghuang13"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mambui/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/mambui"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~datrang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/datrang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dweldega/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/dweldega"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zli117/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/zli117"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~qsong9/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/qsong9"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kpongpit/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/kpongpit"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~gscontre/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/gscontre"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zjiang31/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/zjiang31"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~apanchal/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/apanchal"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~avsdosan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/avsdosan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~vgangadh/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/vgangadh"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~abkinney/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/abkinney"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~swu102/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/swu102"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yzhan371/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/yzhan371"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~pchen56/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/pchen56"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~laquinos/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/laquinos"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nakmarti/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/nakmarti"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~btewodro/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/btewodro"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nyli/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/nyli"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tliu91/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/tliu91"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ydeng22/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/ydeng22"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kliang19/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/kliang19"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lsolorio/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/lsolorio"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~plainez/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/plainez"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yisha/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/yisha"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~adkurkji/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/adkurkji"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ywang462/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/ywang462"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~xhuang69/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/xhuang69"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~xliu178/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/xliu178"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nlmattes/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/nlmattes"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jramisca/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/jramisca"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~plcai/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/plcai"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aquach3/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/aquach3"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tammatth/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/tammatth"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cwang139/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/cwang139"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~drodri40/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/drodri40"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~bhuang6/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/n/bhuang6"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yzhou91/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/yzhou91"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nerchan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/nerchan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~teevans/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/teevans"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zxue7/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/zxue7"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~acasta14/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/acasta14"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rushang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/rushang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zishen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/zishen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~maamchen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/e/maamchen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~iamcontr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/iamcontr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~euolee/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/euolee"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jwei21/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/jwei21"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lmccarns/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/lmccarns"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~gnevange/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/gnevange"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nthoron/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/nthoron"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~heren/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/heren"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~serichte/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/serichte"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yyu35/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/yyu35"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cbonigut/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/cbonigut"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~smakson/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/smakson"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wkerr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/wkerr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mghuang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/c/mghuang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hodang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/hodang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tclo/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/tclo"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ila/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/ila"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~amhatre/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/amhatre"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jowsiu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/jowsiu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~qhuang24/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/qhuang24"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ebashar/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/ebashar"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zhuang78/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/zhuang78"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~zyu32/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/zyu32"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~xzhong6/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/xzhong6"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hma16/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/hma16"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~krbrisen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/krbrisen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~qwang42/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/qwang42"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jaylim/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/jaylim"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rzhang62/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/rzhang62"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ekhorass/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/x/ekhorass"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~raliga/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/raliga"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yfeng34/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/r/yfeng34"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~xzhan181/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/xzhan181"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~cxu52/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/cxu52"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jsun71/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/jsun71"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yhao7/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/yhao7"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~elbahena/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/elbahena"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mbaraja5/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/mbaraja5"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jwei22/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/jwei22"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~athumphr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/athumphr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mgarc113/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/mgarc113"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~yyu88/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/yyu88"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hucai/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/hucai"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~gdefelic/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/gdefelic"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~asmgonza/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/asmgonza"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~etdmarqu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/etdmarqu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rventiga/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/a/rventiga"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~waachan/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/i/waachan"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~gsbindra/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/j/gsbindra"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ipelvang/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/ipelvang"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~sadahal/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/sadahal"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nvang8/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/l/nvang8"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jgpalaci/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/jgpalaci"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~mliebman/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/mliebman"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~pyanguia/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/pyanguia"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~amqiu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/amqiu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tzheng9/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/b/tzheng9"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~miafranc/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/z/miafranc"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jloyola/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/jloyola"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~wjlim/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/d/wjlim"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~aliu52/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/aliu52"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jxye/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/jxye"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jaacarra/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/t/jaacarra"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~tyu28/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/tyu28"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~hucho/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/hucho"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~smulukut/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/o/smulukut"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~evillame/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/g/evillame"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~daye/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/daye"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~surias/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/k/surias"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~ylopezgr/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/ylopezgr"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~uhermosi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/q/uhermosi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~kelichen/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/y/kelichen"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~rgwu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/u/rgwu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~szeng7/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/m/szeng7"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~dknava/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/v/dknava"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~isilvafi/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/s/isilvafi"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~jliao19/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/p/jliao19"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~nimteagu/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/w/nimteagu"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
+<Location "/~lahuckst/">
+  AddHandler		php5-script .php
+  AddType			text/html .php
+  php_admin_value	open_basedir	"/afs/cats.ucsc.edu/users/f/lahuckst"
+  DirectoryIndex	index.php index.shtml index.html index.htm
+</Location>
